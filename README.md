@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dejan4394
+- 👋 Hi, I’m Dejan Malinov
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning React.js
 - 💞️ I’m looking to collaborate on ...
